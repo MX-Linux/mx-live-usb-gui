@@ -51,7 +51,7 @@ APP_VERSION = "13.0.0"
 APP_DATE = "2013/05/13"
 
 # Help
-HTML_HELP_FILE = "http://mepiscommunity.org/doc_mx/antix2usb.html"
+HTML_HELP_FILE = "http://mepiscommunity.org/wiki/help-files/help-mx-create-live-usb-antix2usb"
 
 # Default sizes for persistence files
 HOMEFS_DEFAULT_SIZE = 256
