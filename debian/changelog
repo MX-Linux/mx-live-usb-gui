@@ -1,3 +1,9 @@
+mx-live-usb-gui (0.2.7mx140+4) mx; urgency=low
+
+  * update help link
+
+ -- Kent Mathern <maintainer@mepiscommunity.org>  Wed, 03 Jun 2015 18:59:56 -0400
+
 mx-live-usb-gui (0.2.7mx140+3) mx; urgency=low
 
   * update help link 
