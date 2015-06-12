@@ -1,3 +1,9 @@
+mx-live-usb-gui (0.2.7mx15) mx; urgency=medium
+
+  * changed suffix to just mx15
+
+ -- Kent Mathern <maintainer@mepiscommunity.org>  Thu, 11 Jun 2015 22:02:13 -0400
+
 mx-live-usb-gui (0.2.7mx150+1) mx; urgency=medium
 
   * repackaged for MX-15
