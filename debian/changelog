@@ -1,26 +1,24 @@
-mx-live-usb-gui (0.2.7mx15) mx; urgency=medium
+mx-live-usb-gui (0.2.9mx150+1) mx; urgency=low
 
-  * changed suffix to just mx15
+  * Fixed broken script. It works, but needs improving
+  * Todo - detect syslinus version and use correct libs
 
- -- Kent Mathern <maintainer@mepiscommunity.org>  Thu, 11 Jun 2015 22:02:13 -0400
+ -- anticapitalista <antiX@operamail.com>  Sat, 21 Nov 2015 14:29:00 +0200
 
-mx-live-usb-gui (0.2.7mx150+1) mx; urgency=medium
 
-  * repackaged for MX-15
+mx-live-usb-gui (0.2.8mx150+1) mx; urgency=low
 
- -- Kent Mathern <maintainer@mepiscommunity.org>  Thu, 11 Jun 2015 19:10:45 -0400
+  * desktop file reads gksu "modprobe loop; antix2usb.py"
 
-mx-live-usb-gui (0.2.7mx140+4) mx; urgency=low
+ -- anticapitalista <antiX@operamail.com>  Mon, 26 Oct 2015 01:16:00 +0200
 
-  * update help link
-
- -- Kent Mathern <maintainer@mepiscommunity.org>  Wed, 03 Jun 2015 18:59:56 -0400
 
 mx-live-usb-gui (0.2.7mx140+3) mx; urgency=low
 
-  * update help link 
+  * replace live-usb-gui-antix
 
- -- Kent Mathern <maintainer@mepiscommunity.org>  Fri, 20 Mar 2015 19:43:46 -0400
+ -- anticapitalista <antiX@operamail.com>  Tue, 17 Mar 2015 16:21:00 +0200
+
 
 mx-live-usb-gui (0.2.7mx140+2) mx; urgency=low
 

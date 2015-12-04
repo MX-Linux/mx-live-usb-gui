@@ -8,5 +8,7 @@ Homepage: http://antix.mepis.org
 
 Package: mx-live-usb-gui
 Architecture: all 
-Depends: live-usb-gui-antix, mx-viewer 
-Description: Run antiX/MX live with persistence on a usb device.
+Depends: live-usb-cli-antix, mx-viewer 
+Conflicts: live-usb-gui-antix
+Replaces: live-usb-gui-antix  
+Description: Run MX live with persistence on a usb device.

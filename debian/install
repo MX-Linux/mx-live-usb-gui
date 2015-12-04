@@ -1,2 +1,3 @@
 antix2usb.py 		usr/local/bin
-live-usb.desktop 	usr/share/applications/antix
+antix2usb.glade         usr/share/antix2usb 
+live-usb.desktop 	usr/share/applications/mx

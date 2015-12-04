@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=live usb
 Comment= Make a persistent live usb device.
-Exec=gksu antix2usb.py
+Exec=gksu "modprobe loop; antix2usb.py"
 Icon=usbpendrive_unmount.png
 Terminal=false
 Type=Application
