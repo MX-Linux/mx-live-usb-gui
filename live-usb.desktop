@@ -6,5 +6,5 @@ Exec=gksu "modprobe loop; antix2usb.py"
 Icon=usbpendrive_unmount.png
 Terminal=false
 Type=Application
-Categories=Utility;
+Categories=Utility;MX-Live;
 NoDisplay=False

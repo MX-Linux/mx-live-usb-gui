@@ -1,3 +1,9 @@
+mx-live-usb-gui (0.2.9mx150+2) mx; urgency=medium
+
+  * new desktop file
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 23 May 2016 12:53:06 -0400
+
 mx-live-usb-gui (0.2.9mx150+1) mx; urgency=low
 
   * Fixed broken script. It works, but needs improving
