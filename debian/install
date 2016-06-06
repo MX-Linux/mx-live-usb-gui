@@ -1,3 +1,4 @@
 antix2usb.py 		usr/local/bin
 antix2usb.glade         usr/share/antix2usb 
 live-usb.desktop 	usr/share/applications/mx
+drive-removable-media-usb.svg usr/share/pixmaps

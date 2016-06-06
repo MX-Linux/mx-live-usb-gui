@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=live usb
+Name=Create live usb
 Comment= Make a persistent live usb device.
 Exec=gksu "modprobe loop; antix2usb.py"
-Icon=usbpendrive_unmount.png
+Icon=drive-removable-media-usb
 Terminal=false
 Type=Application
 Categories=Utility;MX-Live;

@@ -1,3 +1,10 @@
+mx-live-usb-gui (0.2.9mx150+3) mx; urgency=medium
+
+  * New desktop file
+  * added icon to package
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 06 Jun 2016 10:18:56 -0400
+
 mx-live-usb-gui (0.2.9mx150+2) mx; urgency=medium
 
   * new desktop file
